@@ -1,4 +1,8 @@
 # ecoleta
 Main Page => Ecoleta recycle  :recycle: -vesion 0.0.1 - :recycle:
 
-[!imagem](https://github.com/ArthurMaciel95/ecoleta/blob/master/img/ecoleta.png)
+<img width="600px" height="400px" src="https://i.imgur.com/GAHlgin.png">
+
+<img width="600px" height="400px" src="https://i.imgur.com/kvqzyd6.png">
+<img width="600px" height="400px" src="https://i.imgur.com/MnMmrt6.png">
+<img width="600px" height="400px" src="https://i.imgur.com/GAHlgin.png">
